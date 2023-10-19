@@ -1,0 +1,111 @@
+date,country_code,holiday_name,holiday_type,is_holiday,is_holiday_day_after,is_holiday_two_days_after,is_holiday_day_before,is_holiday_two_days_before,main_activity,second_activity,third_activity
+1/1/2021,CO,New Year's Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,big party,family,0
+1/11/2021,CO,Epiphany,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+3/8/2021,CO,Women's Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,corporate events,0,0
+3/20/2021,CO,March Equinox,Seasonal,TRUE,FALSE,TRUE,FALSE,FALSE,0,0,0
+3/22/2021,CO,Saint Joseph's Day,National,TRUE,FALSE,FALSE,FALSE,TRUE,travel,long weekend,0
+3/28/2021,CO,Palm Sunday,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+4/1/2021,CO,Maundy Thursday,National,TRUE,TRUE,FALSE,FALSE,FALSE,travel,long weekend,0
+4/2/2021,CO,Good Friday,National,TRUE,FALSE,TRUE,TRUE,FALSE,travel,long weekend,0
+4/4/2021,CO,Easter Sunday,Observance,TRUE,FALSE,FALSE,FALSE,TRUE,travel,long weekend,0
+4/23/2021,CO,Language Day,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,0,0,0
+4/24/2021,CO,Children's Day,Observance,TRUE,FALSE,TRUE,TRUE,FALSE,dine out,family,0
+4/26/2021,CO,Secretaries' Day,Observance,TRUE,FALSE,FALSE,FALSE,TRUE,0,0,0
+4/29/2021,CO,Day of Trees,Observance,TRUE,FALSE,TRUE,FALSE,FALSE,0,0,0
+5/1/2021,CO,Labor Day / May Day,National,TRUE,FALSE,FALSE,FALSE,TRUE,family,stay at home,0
+5/9/2021,CO,Mother's Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,family,dine out,0
+5/15/2021,CO,Teacher's Day,Observance,TRUE,FALSE,TRUE,FALSE,FALSE,0,0,0
+5/17/2021,CO,Ascension Day,National,TRUE,FALSE,FALSE,FALSE,TRUE,travel,long weekend,0
+6/7/2021,CO,Corpus Christi,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+6/14/2021,CO,Sacred Heart,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+6/20/2021,CO,Father's Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,family,dine out,0
+7/5/2021,CO,Feast of Saint Peter and Saint Paul,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+7/20/2021,CO,Independence Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,family,stay at home,0
+8/7/2021,CO,Battle of Boyacá Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,family,stay at home,0
+8/16/2021,CO,Assumption of Mary,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+9/18/2021,CO,Valentine's Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,going out,dine out,big party
+9/22/2021,CO,September Equinox,Seasonal,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+10/18/2021,CO,Columbus Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+10/31/2021,CO,Halloween,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,going out,big party,0
+11/1/2021,CO,All Saints' Day,National,TRUE,FALSE,FALSE,TRUE,FALSE,travel,long weekend,0
+11/14/2021,CO,Colombian Women's Day,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,0,0,0
+11/15/2021,CO,Independence of Cartagena,National,TRUE,FALSE,FALSE,TRUE,FALSE,travel,long weekend,0
+12/7/2021,CO,Eve of the Feast of the Immaculate Conception,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,family,going out,0
+12/8/2021,CO,Feast of the Immaculate Conception,National,TRUE,FALSE,FALSE,TRUE,FALSE,family,stay at home,0
+12/21/2021,CO,December Solstice,Seasonal,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+12/24/2021,CO,Christmas Eve,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,travel,long weekend,0
+12/25/2021,CO,Christmas Day,National,TRUE,FALSE,FALSE,TRUE,FALSE,travel,long weekend,0
+12/31/2021,CO,New Year's Eve,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,travel,big party,0
+1/1/2022,CO,New Year's Day,National,TRUE,FALSE,FALSE,TRUE,FALSE,big party,family,0
+1/10/2022,CO,Epiphany,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+3/8/2022,CO,Women's Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,corporate events,0,0
+3/20/2022,CO,March Equinox,Seasonal,TRUE,TRUE,FALSE,FALSE,FALSE,0,0,0
+3/21/2022,CO,Saint Joseph's Day,National,TRUE,FALSE,FALSE,TRUE,FALSE,travel,long weekend,0
+4/10/2022,CO,Palm Sunday,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+4/14/2022,CO,Maundy Thursday,National,TRUE,TRUE,FALSE,FALSE,FALSE,travel,long weekend,0
+4/15/2022,CO,Good Friday,National,TRUE,FALSE,TRUE,TRUE,FALSE,travel,long weekend,0
+4/17/2022,CO,Easter Sunday,Observance,TRUE,FALSE,FALSE,FALSE,TRUE,travel,long weekend,0
+4/23/2022,CO,Language Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+4/26/2022,CO,Secretaries' Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+4/29/2022,CO,Day of Trees,Observance,TRUE,TRUE,TRUE,FALSE,FALSE,0,0,0
+4/30/2022,CO,Children's Day,Observance,TRUE,TRUE,FALSE,TRUE,FALSE,dine out,family,0
+5/1/2022,CO,Labor Day / May Day,National,TRUE,FALSE,FALSE,TRUE,TRUE,family,stay at home,0
+5/8/2022,CO,Mother's Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,family,dine out,0
+5/15/2022,CO,Teacher's Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+5/30/2022,CO,Ascension Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+6/19/2022,CO,Father's Day,Observance,TRUE,TRUE,TRUE,FALSE,FALSE,family,dine out,0
+6/20/2022,CO,Corpus Christi,National,TRUE,TRUE,FALSE,TRUE,FALSE,travel,long weekend,0
+6/21/2022,CO,June Solstice,Seasonal,TRUE,FALSE,FALSE,TRUE,TRUE,0,0,0
+6/27/2022,CO,Sacred Heart,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+7/4/2022,CO,Feast of Saint Peter and Saint Paul,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+7/20/2022,CO,Independence Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,family,stay at home,0
+8/7/2022,CO,Battle of Boyacá Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,family,stay at home,0
+8/15/2022,CO,Assumption of Mary,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+9/17/2022,CO,Valentine's Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,going out,dine out,big party
+9/22/2022,CO,September Equinox,Seasonal,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+10/17/2022,CO,Columbus Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+10/31/2022,CO,Halloween,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,going out,big party,0
+11/7/2022,CO,All Saints' Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+11/14/2022,CO,Colombian Women's Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+12/7/2022,CO,Eve of the Feast of the Immaculate Conception,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,family,going out,0
+12/8/2022,CO,Feast of the Immaculate Conception,National,TRUE,FALSE,FALSE,TRUE,FALSE,family,stay at home,0
+12/21/2022,CO,December Solstice,Seasonal,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+12/24/2022,CO,Christmas Eve,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,travel,long weekend,0
+12/25/2022,CO,Christmas Day,National,TRUE,FALSE,FALSE,TRUE,FALSE,travel,long weekend,0
+12/31/2022,CO,New Year's Eve,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,travel,big party,0
+1/1/2023,CO,New Year's Day,National,TRUE,FALSE,FALSE,TRUE,FALSE,big party,family,0
+1/9/2023,CO,Epiphany,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+3/8/2023,CO,Women's Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,corporate events,0,0
+3/20/2023,CO,Saint Joseph's Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+4/2/2023,CO,Palm Sunday,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+4/6/2023,CO,Maundy Thursday,National,TRUE,TRUE,FALSE,FALSE,FALSE,travel,long weekend,0
+4/7/2023,CO,Good Friday,National,TRUE,FALSE,TRUE,TRUE,FALSE,travel,long weekend,0
+4/9/2023,CO,Easter Sunday,Observance,TRUE,FALSE,FALSE,FALSE,TRUE,travel,long weekend,0
+4/23/2023,CO,Language Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+4/26/2023,CO,Secretaries' Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+4/29/2023,CO,Day of Trees,Observance,TRUE,FALSE,TRUE,FALSE,FALSE,0,0,0
+5/1/2023,CO,Labor Day / May Day,National,TRUE,FALSE,FALSE,FALSE,TRUE,family,stay at home,0
+5/14/2023,CO,Mother's Day,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,family,dine out,0
+5/15/2023,CO,Teacher's Day,Observance,TRUE,FALSE,FALSE,TRUE,FALSE,0,0,0
+5/22/2023,CO,Ascension Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+6/12/2023,CO,Corpus Christi,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+6/18/2023,CO,Father's Day,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,family,dine out,0
+6/19/2023,CO,Sacred Heart,National,TRUE,FALSE,TRUE,TRUE,FALSE,travel,long weekend,0
+6/21/2023,CO,June Solstice,Seasonal,TRUE,FALSE,FALSE,FALSE,TRUE,0,0,0
+7/3/2023,CO,Feast of Saint Peter and Saint Paul,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+7/20/2023,CO,Independence Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,family,stay at home,0
+8/7/2023,CO,Battle of Boyacá Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,family,stay at home,0
+8/21/2023,CO,Assumption of Mary,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+9/16/2023,CO,Valentine's Day,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,going out,dine out,big party
+9/23/2023,CO,September Equinox,Seasonal,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+10/16/2023,CO,Columbus Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+10/31/2023,CO,Halloween,Observance,TRUE,FALSE,FALSE,FALSE,FALSE,going out,big party,0
+11/6/2023,CO,All Saints' Day,National,TRUE,FALSE,FALSE,FALSE,FALSE,travel,long weekend,0
+11/13/2023,CO,Independence of Cartagena,National,TRUE,TRUE,FALSE,FALSE,FALSE,travel,long weekend,0
+11/14/2023,CO,Colombian Women's Day,Observance,TRUE,FALSE,FALSE,TRUE,FALSE,0,0,0
+12/7/2023,CO,Eve of the Feast of the Immaculate Conception,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,family,going out,0
+12/8/2023,CO,Feast of the Immaculate Conception,National,TRUE,FALSE,FALSE,TRUE,FALSE,family,stay at home,0
+12/21/2023,CO,December Solstice,Seasonal,TRUE,FALSE,FALSE,FALSE,FALSE,0,0,0
+12/24/2023,CO,Christmas Eve,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,travel,long weekend,0
+12/25/2023,CO,Christmas Day,National,TRUE,FALSE,FALSE,TRUE,FALSE,travel,long weekend,0
+12/31/2023,CO,New Year's Eve,Observance,TRUE,TRUE,FALSE,FALSE,FALSE,travel,big party,0

@@ -1,0 +1,62 @@
+folder_name: testPSGG_PCSM
+has_competitor_price: 1
+time_bucket: 24
+test_dataset_size: 30
+
+features:
+  - date
+  - net_price
+  - day_of_week_n
+  - net_price_day_0
+  - net_price_day_1
+  - net_price_day_2
+  - net_price_day_3
+  - net_price_day_4
+  - net_price_day_5
+  - net_price_day_6
+  - hour
+  # - quantity_ewm_alpha_095_lag_7
+  # - FP_quantity_ewm_alpha_095_lag_7
+  - FP_quantity_daily_lag2
+  # - FP_net_price_daily_lag2
+  - trend_daily_lag2
+  # - FP_trend_daily_lag2
+  - quantity_hourly_lag48
+  - quantity_daily_lag4
+  - quantity_hourly_lag132
+  - quantity_FP_lag48
+  - quantity
+
+
+
+products:
+  # - Apio Estándar (Grande) Atado
+  # - Cebolla Cabezona Roja Limpia Tamaño Mixto Kg (Tamaño 🏠)
+  # - Cebolla Cabezona Roja Sin Pelar Tamaño Mixto Desde 2Kg
+  # - Champiñón Blanco Paris 500 gr Bandeja
+
+  # - Fresa Pequeño Kg
+  # - Guatila Estándar Kg
+  # - Papa Criolla Segunda Mixta Kg
+  # - Papa Criolla Lavada Semi (Mediana) Kg
+  # - Papa Criolla Sin Lavar Tamaño Mixto Kg
+
+  # - Pimentón Maduración Mixta Semi (Mediano / Nataly) Desde 2Kg
+
+
+# # Bad
+  - Champiñón Blanco Paris 1Kg Bandeja
+  # - Fresa Selecta (Grande) Kg
+  # - Papa Sabanera Gruesa (Grande) Kg
+  # - Papa Sabanera Semi (Mediana) Kg
+  # - Rabano Estándar Kg 
+
+  # - Champiñón Blanco Paris 1Kg Bandeja  - 37
+  # - Fresa Selecta (Grande) Kg  - 32
+  # - Papa Sabanera Gruesa (Grande) Kg - 53
+  # - Papa Sabanera Semi (Mediana) Kg  - 38
+  # - Rabano Estándar Kg   - mape 42
+ 
+upperBound: 4500
+lower_bound: 4000
+test_price_step_size: 5
