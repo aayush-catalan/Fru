@@ -57,6 +57,6 @@ products:
   # - Papa Sabanera Semi (Mediana) Kg  - 38
   # - Rabano Estándar Kg   - mape 42
  
-upperBound: 4500
-lower_bound: 4000
+upperBound: 26400
+lowerBound: 21121
 test_price_step_size: 5

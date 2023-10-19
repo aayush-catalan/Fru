@@ -866,7 +866,7 @@ def generate_profit(features, columns, model_name, date):
     plt.savefig(f'profitgraph/reveneu{date}.png')
 
 
-def generate_profit_new(features, columns, model_name, date):
+def generate_profit_new(features, columns, model_name, date, lower_bound_price, upper_bound_price):
     # date = datetime.strptime(date_str, '%Y-%m-%d').date()
     df = features[columns]
     df = df.dropna()
@@ -923,8 +923,12 @@ def generate_profit_new(features, columns, model_name, date):
 
     # min_var = test_price - 0.3*test_price
     # max_var = test_price + 0.3*test_price
-    min_var = 1934
-    max_var = 2901
+    print('lower_bound',lower_bound_price)
+    print('lower_bound  type',type(lower_bound_price))
+    min_var = lower_bound_price
+    print('lower_bound',min_var)
+    print('lower_bound  type',type(min_var))
+    max_var = upper_bound_price
 
     # test_cost = min_var
     for i in np.arange(min_var,

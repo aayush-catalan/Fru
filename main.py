@@ -58,7 +58,7 @@ folder_name = config['folder_name']
 columns = config['features']
 time_bucket = config['time_bucket']
 upper_bound_price = config['upperBound']
-lower_bound_price = config['lower_bound']
+lower_bound_price = config['lowerBound']
 test_price_step_size = config['test_price_step_size']
 test_dataset_size = config['test_dataset_size']
 
@@ -118,11 +118,11 @@ for product_name in products:
         os.makedirs(f'{folder_name}/Models/{sub_folder_name}/{product_name}', exist_ok=True)
         os.makedirs(f'{folder_name}/Daily_Analysis_Graphs/CatBoostRegressor/{product_name}', exist_ok=True)
         
-        generate_demand_graph_daily_testing(features,columns, product_name,folder_name,model_name,sub_folder_name, test_dataset_size, upper_bound_price, lower_bound_price, test_price_step_size)
+        # generate_demand_graph_daily_testing(features,columns, product_name,folder_name,model_name,sub_folder_name, test_dataset_size, upper_bound_price, lower_bound_price, test_price_step_size)
         # preds, actual = generate_demand_for_a_day(features,columns, model_name,'2023-09-01')
-        # date_range = pd.date_range(start='2023-10-18', end='2023-10-19', freq='D')
-        # for day in date_range:
+        date_range = pd.date_range(start='2023-10-18', end='2023-10-19', freq='D')
+        for day in date_range:
              
-        #     generate_profit_new(features,columns, model_name,day)
+            generate_profit_new(features,columns, model_name,day,lower_bound_price, upper_bound_price)
 
 
